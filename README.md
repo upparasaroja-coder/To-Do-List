@@ -19,8 +19,11 @@ A simple To-Do List project using Python.
 
 📂 Project Structure
 python-todo-list/
+
 │
+
 ├── todo.py
+
 └── README.md
 
 ## 👨‍💻 About
